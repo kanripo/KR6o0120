@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:11.031751
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:26
 #+TITLE: 起信論疏記會閱
 #+PROPERTY: CBETA_ID X45n0768
 #+PROPERTY: ID KR6o0120
@@ -2438,7 +2438,7 @@
 大乘起信論疏筆削記會閱卷第六¶
 ¶
 
-音釋¶
+** 音釋¶
 
 熾
 音翅。火勢盛貌。
